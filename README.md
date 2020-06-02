@@ -1,7 +1,7 @@
 # MM-SADA_Domain_Adaptation_Splits
 This repository contains the annotations for the domain adaptation dataset used in the paper [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](https://arxiv.org/abs/2001.09691). 
 
-```
+
 ## BibTeX
 If this repository was utilised, please cite:
 ```
@@ -68,4 +68,4 @@ The download scripts for EPIC Kitchens are avaialable here: https://github.com/e
     └── flow
         ├── ... same file structure as rgb
 
-
+```
