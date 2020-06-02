@@ -45,7 +45,7 @@ The download scripts for EPIC Kitchens are avaialable here: https://github.com/e
 
 
 ```
-~/Downloads/EPIC_KITCHENS_2018/
+~/Downloads/EPIC_KITCHENS_UDA/
 └── frames_rgb_flow
     ├── rgb
     │   ├── test
