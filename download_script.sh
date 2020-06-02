@@ -1,9 +1,9 @@
 #!/bin/bash
 
 if [ "$#" -eq 1 ]; then
-    outputPath="$1/EPIC_KITCHENS_2018"
+    outputPath="$1/EPIC_KITCHENS_UDA"
 else
-    outputPath="$HOME/Downloads/EPIC_KITCHENS_2018"
+    outputPath="$HOME/Downloads/EPIC_KITCHENS_UDA"
 fi
 
 if ! [ -x "$(command -v wget)" ]; then

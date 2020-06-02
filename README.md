@@ -29,7 +29,7 @@ Each pickle file contains a pandas.DataFrame with 10 columns:
 Optical Flow was calcuated with a stride=2 in EPIC Kitchens, therefore the start and stop frames for the Flow modality are (`start_frame/2`, `stop_frame/2`).
 
 ## Downloading Frames
-The download scripts for EPIC Kitchens are avaialable here: https://github.com/epic-kitchens/download-scripts. Alternatively, download_script.sh is provided that will download the relevent participants P08, P02 and P22 into the below directory structure. Unless an argument is specfied, the directory structure will be created in `"$HOME/Downloads/EPIC_KITCHENS_2018"`.
+The download scripts for EPIC Kitchens are avaialable here: https://github.com/epic-kitchens/download-scripts. Alternatively, download_script.sh is provided that will download the relevent participants P08, P02 and P22 into the below directory structure. Unless an argument is specfied, the directory structure will be created in `"$HOME/Downloads/EPIC_KITCHENS_UDA"`.
 
 
 ```
